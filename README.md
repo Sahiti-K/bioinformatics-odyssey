@@ -1,42 +1,36 @@
 <img src="images/banner.png" alt="Bioinformatics Odyssey Banner" width="100%">
+
 # 🧬 Bioinformatics Odyssey
 
-A hands-on journey to master Bioinformatics by combining coding, biology, and data analysis.
+Bioinformatics Odyssey is a self-directed initiative to develop foundational and applied skills in bioinformatics. Through Python-based analysis of biological data, file parsing, algorithmic problem-solving, and tool integration, this repository bridges biotechnology with computational approaches. It documents a structured learning path supported by ChatGPT, intending to build industry-relevant expertise and a portfolio of reproducible, well-organized work.
 
 ---
-
 ## Goals
 
-- Learn bioinformatics from the ground up.
-- Use Python for sequence analysis.
-- Work with real biological data and file formats.
+- Understand key bioinformatics concepts
+- Apply Python to biological data (DNA, RNA, proteins)
+- Work with file formats like FASTA, FASTQ, and GTF
+- Use tools like Biopython, BLAST, and Clustal Omega
+- Solve challenges from Rosalind
 ---
 
-## Tools
+## Tools & Technologies
 
-- Python, Google Colab
-- Biopython, Pandas, NumPy
-- FASTA, FASTQ formats
-- BLAST, Clustal Omega
-- Rosalind.info
+- **Python**
+- **Google Colab / Jupyter Notebooks**
+- **Biopython**, **Pandas**, **NumPy**
+- **FASTA / FASTQ / GTF** file parsing
+- **BLAST**, **Clustal Omega**
+- **Git** and **GitHub**
 
 ---
+## Key Resources
 
-## Learning Support
-
-Guided by **ChatGPT** for:
-- Explaining biology concepts
-- Code help and debugging
-- Structuring notebooks and progress
-
-## Resources
-
-- 🔗 [Rosalind](https://rosalind.info) – Practice problems
-- 🔗 [Biopython](https://biopython.org) – Python tools for bioinformatics
-- 🔗 [NCBI BLAST](https://blast.ncbi.nlm.nih.gov) – Sequence search
-- 🔗 [Google Colab](https://colab.research.google.com) – Free notebook environment
-- 🔗 [Ensembl](https://www.ensembl.org) – Genomic data browser
-- 🔗 [UniProt](https://www.uniprot.org) – Protein sequence database
-- 🔗 [GEO (NCBI)](https://www.ncbi.nlm.nih.gov/geo/) – Gene expression data
-- 🔗 [LearnBioinformatics Blog](https://www.learnbioinformatics.com) – Articles and tutorials
-- 🔗 [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Curated resource list
+- [Biopython](https://biopython.org) – Python tools for biological data  
+- [Google Colab](https://colab.research.google.com) – Free coding environment  
+- [NCBI BLAST](https://blast.ncbi.nlm.nih.gov) – Sequence search  
+- [Ensembl Genome Browser](https://www.ensembl.org)  
+- [UniProt](https://www.uniprot.org) – Protein database  
+- [GEO (NCBI)](https://www.ncbi.nlm.nih.gov/geo/) – Gene expression datasets  
+- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)  
+- [LearnBioinformatics Blog](https://www.learnbioinformatics.com)  
