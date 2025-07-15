@@ -1,3 +1,4 @@
+<img src="images/banner.png" alt="Bioinformatics Odyssey Banner" width="100%">
 # 🧬 Bioinformatics Odyssey
 
 A hands-on journey to master Bioinformatics by combining coding, biology, and data analysis.
