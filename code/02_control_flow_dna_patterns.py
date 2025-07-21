@@ -69,3 +69,7 @@ if __name__ == "__main__":
         print("Motif 'TAA' at:", find_motif(seq, "TAA"))
     else:
         print("Invalid DNA sequence")
+
+# Summary
+# DNA validation, transcription, GC content, and motif search using control flow.
+# Codon extraction with start/stop scanning logic.
