@@ -17,20 +17,13 @@ Bioinformatics Odyssey is a self-directed initiative to develop foundational and
 ## Tools & Technologies
 
 - **Python**
-- **Google Colab / Jupyter Notebooks**
 - **Biopython**, **Pandas**, **NumPy**
 - **FASTA / FASTQ / GTF** file parsing
-- **BLAST**, **Clustal Omega**
 - **Git** and **GitHub**
 
 ---
 ## Key Resources
 
 - [Biopython](https://biopython.org) – Python tools for biological data  
-- [Google Colab](https://colab.research.google.com) – Free coding environment  
-- [NCBI BLAST](https://blast.ncbi.nlm.nih.gov) – Sequence search  
-- [Ensembl Genome Browser](https://www.ensembl.org)  
-- [UniProt](https://www.uniprot.org) – Protein database  
-- [GEO (NCBI)](https://www.ncbi.nlm.nih.gov/geo/) – Gene expression datasets  
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)  
 - [LearnBioinformatics Blog](https://www.learnbioinformatics.com)  
