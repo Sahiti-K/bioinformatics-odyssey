@@ -1,3 +1,4 @@
+<img src="images/banner.png" alt="Bioinformatics Odyssey Banner" width="100%">
 # 🧬 Bioinformatics Odyssey
 
 Bioinformatics Odyssey is a self-directed initiative to develop foundational and applied skills in bioinformatics. Through Python-based analysis of biological data, file parsing, algorithmic problem-solving, and tool integration, this repository bridges biotechnology with computational approaches. It documents a structured learning path supported by ChatGPT, intending to build industry-relevant expertise and a portfolio of reproducible, well-organized work.
