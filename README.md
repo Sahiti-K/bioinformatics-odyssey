@@ -1,21 +1,22 @@
 <img src="images/banner.png" alt="Bioinformatics Odyssey Banner" width="100%">
+
 # 🧬 Bioinformatics Odyssey
 
-Bioinformatics Odyssey is a self-directed initiative to develop foundational and applied skills in bioinformatics. Through Python-based analysis of biological data, file parsing, algorithmic problem-solving, and tool integration, this repository bridges biotechnology with computational approaches. It documents a structured learning path supported by ChatGPT, intending to build industry-relevant expertise and a portfolio of reproducible, well-organized work.
+*A hands-on learning journey into the world of DNA, code, and biological data.*
 
 ---
-## Goals
+This repository is a personal lab notebook and coding space where I’m learning bioinformatics step-by-step through:
 
-- Understand key bioinformatics concepts
-- Apply Python to biological data (DNA, RNA, proteins)
-- Work with file formats like FASTA, FASTQ, and GTF
-- Use tools like Biopython, BLAST, and Clustal Omega
-- Solve challenges from Rosalind
+- Python scripting for biological problems  
+- File formats like FASTA, FASTQ, and VCF  
+- real-world applications and tools in genomics  
+- Data parsing, visualization, and automation
+
+Everything here reflects my **learning process**, not just finished projects — from basic file handling to parsing genomic data and beyond.  
+
+🎯*Goal:* *Build strong foundations in bioinformatics and computational biology — one script at a time.*
+
+🚀*Vision:* *A structured, hands-on path to mastering bioinformatics through small wins, clean code, and continuous learning.*
+
 ---
-
-## Tools & Technologies
-
-- **Python**
-- **Biopython**, **Pandas**, **NumPy**
-- **FASTA / FASTQ / GTF** file parsing
-- **Git** and **GitHub**
+Stay curious, and feel free to follow along!🌱
